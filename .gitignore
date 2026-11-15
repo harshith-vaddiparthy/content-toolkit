@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Third-party skills are installed with `npx skills add ...` (see README).
+# They keep their own licenses (the Postiz skill is AGPL-3.0) and are not vendored here.
+Social Posts/.agents/skills/postiz/
+Social Posts/.agents/skills/humanizer-zh/
+Social Posts/.claude/skills/postiz
+Social Posts/.claude/skills/humanizer-zh
+Social Posts/skills-lock.json
+
+# Images captured from articles belong to their publishers and are not redistributed.
+Social Posts/images/*
+!Social Posts/images/.gitkeep
+!Social Posts/images/README.md
+
+# Local scratch
+*.log
+.env

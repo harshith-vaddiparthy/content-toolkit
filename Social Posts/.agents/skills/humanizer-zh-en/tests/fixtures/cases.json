@@ -1,0 +1,92 @@
+[
+  {
+    "id": "missing_metrics",
+    "request": "Polish this product description so it is natural and concise.",
+    "input": "The plan is stable and reliable, fast in response, and easy to maintain."
+  },
+  {
+    "id": "uncertain_cause",
+    "request": "Polish this fault description.",
+    "input": "This problem has been reported by the community many times, is thought to possibly be related to a memory leak, but the cause has not been confirmed."
+  },
+  {
+    "id": "three_features",
+    "request": "Remove the templated phrasing and make the description clear.",
+    "input": "This update fully demonstrates the team's spirit of innovation. It adds export, search, and batch renaming."
+  },
+  {
+    "id": "ongoing_planned",
+    "request": "Tighten this work progress note.",
+    "input": "We are currently carrying out comprehensive testing on the system, and plan to carry out configuration adjustments on Friday. Testing has not yet been completed."
+  },
+  {
+    "id": "bounds_negation",
+    "request": "Polish this description of the space.",
+    "input": "This space, serving as an exhibition venue, features four independent exhibition areas, with a total floor area of more than 3,000 square feet, but is not open to the public."
+  },
+  {
+    "id": "passive_unknown",
+    "request": "Make this technical record read naturally.",
+    "input": "The sample has been contaminated, and the cause has not been confirmed. Quantity unchanged, order unchanged, permissions unchanged are the three requirements of this check."
+  },
+  {
+    "id": "association",
+    "request": "Make this profile of a person clearer.",
+    "input": "He is associated with the band, and his specific role is unclear. Some unnamed commenters believe he may have taken part in rehearsals, but they provided no records."
+  },
+  {
+    "id": "already_clear",
+    "request": "Polish this set of instructions.",
+    "input": "Save the file first, then close the window. Unsaved changes will be lost."
+  },
+  {
+    "id": "author_voice",
+    "request": "Polish the target text to match the given author sample. Author sample: I only changed the title—I didn't touch the body. I'm still not happy with this version and want to leave it for two more days. The target text follows.",
+    "input": "I only made modifications to the title—no changes of any kind were made to the body text and attachments. I am still not quite satisfied at the moment and would like to wait two more days."
+  },
+  {
+    "id": "attributed_claim",
+    "request": "Polish this commentary without adding any investigation.",
+    "input": "Some unnamed experts believe that this design may reduce operating errors, fully reflecting its great value. The available material gives no test results."
+  },
+  {
+    "id": "quotation",
+    "request": "Polish this analysis.",
+    "input": "The author writes: “This is not a tool, but a mirror.” This article discusses why this sentence is so easily reused over and over, and does not treat it as a conclusion."
+  },
+  {
+    "id": "time_relationship",
+    "request": "Tighten this progress note.",
+    "input": "First, Group A is currently checking the data. At the same time, Group B is testing the export feature. Only after both groups have finished their work can it be released."
+  },
+  {
+    "id": "gallery_report",
+    "request": "Polish the following exhibition work briefing, keeping a formal tone.",
+    "input": "This exhibition received more than 1,200 visits, of which at least 40 were repeat visits, so it cannot be concluded that there were more than 1,200 unique visitors. Only 18 paper questionnaires were collected. Based on the information currently available, 11 respondents said they hoped opening hours would be extended; this does not mean other visitors oppose an extension."
+  },
+  {
+    "id": "tentative_memo",
+    "request": "Polish the following personal commentary to make it more natural.",
+    "input": "I'm a bit unsure about abolishing manual proofreading entirely. The automatic prompts really are convenient, but in this demonstration, it treated a joke as a promise. I don't want to dismiss the tool because of that, and I haven't decided whether to keep trying it. If I had to describe how I feel, it's probably a bit of anticipation, and a bit of annoyance."
+  },
+  {
+    "id": "conditional_launch",
+    "request": "Tighten this launch preparation note.",
+    "input": "The maintainers are currently carrying out a migration drill. If the old links pass verification and editor confirmation is received before Thursday, the site can switch over as early as Friday; if either condition is not met, we keep using the old site. Review being complete does not mean the migration is complete. The mirror site only provides read-only access and does not accept new submissions for now."
+  },
+  {
+    "id": "vendor_claim",
+    "request": "Please rewrite this vendor-selection note in plain language.",
+    "input": "The vendor claims that this proofreading service can cut rework time by 30%. We have not yet obtained the measurement method, and rework time was not tracked during the trial. Two editors felt the prompts appeared more promptly, but no one checked whether this feeling was merely caused by different network conditions. At this stage, the reduction can only be recorded as the vendor's claim."
+  },
+  {
+    "id": "quote_and_options",
+    "request": "Polish this record of an editorial discussion without turning it into a summary.",
+    "input": "Someone said at the meeting: “It's not that I don't want to change it, it's that you haven't told me what's wrong.” This remark was a response to a rejection comment that gave no reasons. We discussed three ways of handling it: keeping the original paragraph, adding annotations, and deleting repeated examples; none has been chosen yet. The original paragraph records the author's thinking, the annotations explain terminology, and the examples illustrate the order of operations; the roles they play are not entirely the same."
+  },
+  {
+    "id": "progress_and_permission",
+    "request": "Rewrite as an easy-to-read progress note.",
+    "input": "We have finished organizing the first batch of manuscripts, the second batch is still being organized, and the third batch has not yet begun. These three batches cannot enter the publication queue at the same time: the second batch must wait until the first batch is confirmed before entering, and the third batch follows. Externally, only passages the author has agreed to make public are shown; not replying to the authorization email does not count as consent. This step can be neither omitted nor replaced by verbal guesses."
+  }
+]
