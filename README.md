@@ -36,6 +36,7 @@ content-toolkit/
 │   └── images/                         Post images (git-ignored)
 ├── Email Campaigns/                    Reserved for templates and workflows (not started)
 ├── assets/banner.svg
+├── NOTICE.md                           Third-party licenses
 └── LICENSE
 ```
 
