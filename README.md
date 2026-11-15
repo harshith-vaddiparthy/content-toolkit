@@ -225,4 +225,4 @@ Images captured from articles belong to their publishers and are not included in
 
 ## License
 
-[MIT](LICENSE) © 2026 Harshith Vaddiparthy. Third-party material keeps its own license, as noted in [Credits](#credits) and in the `LICENSE` file.
+[MIT](LICENSE) © 2026 Harshith Vaddiparthy. Third-party material keeps its own license, as noted in [Credits](#credits) and in [NOTICE.md](NOTICE.md).
